@@ -1,29 +1,29 @@
 * { margin: 0; padding: 0; }
 
 body {
-    font: normal 14px Arial,serif,Courier New,黑体;
+    font: normal 14px "Noto Mono","Cascadia Mono","微软雅黑",Arial,serif,"Courier New",黑体;
 }
 
 h1 {
-    font: normal 80px georgia,Arial,serif,Courier New;
+    font: normal 80px "Noto Mono","Cascadia Mono","微软雅黑",georgia,Arial,serif,Courier New;
     line-height: 95px;
     margin-top: 30px;
 }
 
 h2 {
-    font: bold 40px Arial,serif;
+    font: bold 40px "Noto Mono","Cascadia Mono","微软雅黑",Arial,serif;
     margin-top: 40px;
 }
 
 p {
-    font: normal 14px Arial,serif;
+    font: normal 14px "Noto Mono","Cascadia Mono","微软雅黑",Arial,serif;
     line-height: 25px;
     margin: 13px 0 13px 0;
 }
 
 p code {
     background: #eee;
-    font: normal 15px "Courier New",Arial,serif; 
+    font: normal 15px "Noto Mono","Cascadia Mono","Courier New",Arial,serif; 
     overflow: auto;
     padding: 0 3px 0 3px;
 }
@@ -31,7 +31,7 @@ p code {
 p strong {
     background: #c00;
     color: #fff;
-    font: normal 15px "Courier New", Arial,serif;
+    font: normal 15px "Noto Mono","Cascadia Mono","微软雅黑","Courier New", Arial,serif;
     padding: 2px 3px 2px 3px;
     margin: 0 3px 3px 0;
 }
@@ -45,7 +45,7 @@ img {
 
 pre.code{
     background: #000;
-    font-family: "Courier New", "Consolas", monospace;
+    font-family: "Noto Mono","Cascadia Mono","微软雅黑","Courier New","Consolas",monospace;
     font-size: 14px;
     
     color: #fff;
